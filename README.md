@@ -155,4 +155,5 @@ LangGraph is a Python framework for designing and managing the flow of tasks in 
   - **Function:** messages triggered by functions/code
 
 ***
-[LangGraph Complete Course for Beginners – Complex AI Agents with Python](https://www.youtube.com/watch?v=jGg_1h0qzaM)
+[LangGraph Complete Course for Beginners – Complex AI Agents with Python](https://www.youtube.com/watch?v=jGg_1h0qzaM) <br>
+[Google Gemini LangChain Cheatsheet](https://www.philschmid.de/gemini-langchain-cheatsheet)
