@@ -1,6 +1,6 @@
 # LangGraph 101 Course & Projects
 ## TL;DR
-LangGraph is a Python framework for designing and managing the flow of tasks in your application using graph structures. Bassicly, langgraph used for multi-agent to make that interactively with graph.
+LangGraph is a Python framework for designing and managing the flow of tasks in your application using graph structures. Basically, langgraph used for multi-agent to make that interactively with graph.
 
 ## Core Concepts
 ### Type Annotations
