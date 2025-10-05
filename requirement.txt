@@ -1,3 +1,6 @@
 langchain
 langgraph
 langchain-google-genai
+langchain-community
+langchain-chroma
+pypdf
